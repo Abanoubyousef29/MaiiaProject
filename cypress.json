@@ -1,0 +1,11 @@
+{
+  "testFiles": "**/*.feature",
+  "baseUrl": "https://www.staging.maiia.com/",
+    "env": {
+      "TAGS": "@run",
+      "timeout": 2000
+    },
+  "retries": 1
+}
+
+
